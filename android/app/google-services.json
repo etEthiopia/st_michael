@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822761545154",
+    "project_id": "stmichael-fa704",
+    "storage_bucket": "stmichael-fa704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822761545154:android:d4fe559666405528144a5b",
+        "android_client_info": {
+          "package_name": "com.example.st_michael"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822761545154-qjs9mkehi0rthloj8o6pf00fqe2bcmmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABOwQPrDK_GoeoW3LeJMtF21jECahQj7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822761545154-qjs9mkehi0rthloj8o6pf00fqe2bcmmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
